@@ -1,6 +1,7 @@
 # Tetris-CPP-Clone
 
 Compile with:
+
 g++ -std=c++11 main.cpp Block.h BlockFall.h BlockFall.cpp GameController.h GameController.cpp LeaderboardEntry.h LeaderboardEntry.cpp Leaderboard.h Leaderboard.cpp -o blockfall
 
 Or, you can use the provided Makefile or CMakeLists.txt within the sample input to compile your
